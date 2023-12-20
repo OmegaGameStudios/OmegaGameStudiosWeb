@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmegaGameStudios_App'", "OmegaGameStudios_App\OmegaGameStudios\OmegaGameStudios_App'.csproj", "{1D25D523-1EEF-4115-B2A8-792769CA6F6D}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D25D523-1EEF-4115-B2A8-792769CA6F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D25D523-1EEF-4115-B2A8-792769CA6F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D25D523-1EEF-4115-B2A8-792769CA6F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D25D523-1EEF-4115-B2A8-792769CA6F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

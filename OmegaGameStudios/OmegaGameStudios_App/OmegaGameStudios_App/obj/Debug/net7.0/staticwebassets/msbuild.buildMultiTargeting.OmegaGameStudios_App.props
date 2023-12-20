@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\OmegaGameStudios_App.props" />
-</Project>
