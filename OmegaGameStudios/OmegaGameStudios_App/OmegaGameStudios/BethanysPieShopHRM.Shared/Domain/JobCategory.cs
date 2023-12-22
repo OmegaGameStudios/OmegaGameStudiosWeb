@@ -1,4 +1,4 @@
-﻿namespace BethanysPieShopHRM.Shared.Domain
+﻿namespace OmegaGameStudios.Shared.Domain
 {
     public class JobCategory
     {

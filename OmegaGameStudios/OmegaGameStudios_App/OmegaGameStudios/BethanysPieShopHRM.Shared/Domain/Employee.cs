@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BethanysPieShopHRM.Shared.Domain
+namespace OmegaGameStudios.Shared.Domain
 {
     public class Employee
     {
